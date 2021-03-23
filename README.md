@@ -1,3 +1,5 @@
+# It is a project practing adding todos, removing todos by using react redux. ( Not finished yet. need to add css and update todo function.)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
